@@ -12,12 +12,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="LuizCarlossr-Csharp" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="LuizCarlossr-Csharp" height="30" width="40" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000">
-  <img align="center" alt="LuizCarlossr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="LuizCarlossr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="LuizCarlossr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="LuizCarlossr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="LuizCarlossr-php" height="40" width="50"   
+  <img align="center" alt="LuizCarlosBR-Java" height="30" width="40" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000">
+  <img align="center" alt="LuizCarlosBR-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="LuizCarlosBR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="LuizCarlosBR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="LuizCarlosBR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="LuizCarlosBR-php" height="40" width="50"   
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="LuizCarlossr-microsoftsqlserver" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
